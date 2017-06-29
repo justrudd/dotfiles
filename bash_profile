@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-export BASH_IT="~/.bash_it"
+export BASH_IT="$HOME/.bash_it"
 export BASH_IT_THEME='bobby'
 
 unset MAILCHECK
